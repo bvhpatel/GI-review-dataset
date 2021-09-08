@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![DOI](https://zenodo.org/badge/404439394.svg)](https://zenodo.org/badge/latestdoi/404439394)
+
 # Dataset: Biomechanical constitutive modeling of the gastrointestinal tissues
 This is the dataset associated with our review manuscript on the biomechanical constitutive modeling of GI tissues. It is structured according to the SPARC Data Structure [1] and curated using the SPARC data curation software SODA v4.7.0 [2,3]. We refer to the manuscript for details about the dataset content (the DOI will be included here once the pre-print is available on bioRxiv).
 
@@ -38,3 +44,13 @@ Launch Jupyter lab and naviguate to open the post-processing-code.ipynb file und
 [2] https://github.com/bvhpatel/SODA
 
 [3] Patel, B., Ngo, T., Soundarajan, S. *SODA (Software to Organize Data Automatically) for SPARC: v4.7.0*. Zenodo (https://doi.org/10.5281/zenodo.5392287). 
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/bvhpatel/GI-review-dataset.svg?style=flat-square
+[contributors-url]: https://github.com/bvhpatel/GI-review-dataset/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/bvhpatel/GI-review-dataset.svg?style=flat-square
+[stars-url]: https://github.com/bvhpatel/GI-review-dataset/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bvhpatel/GI-review-dataset.svg?style=flat-square
+[issues-url]: https://github.com/bvhpatel/GI-review-dataset/issues
+[license-shield]: https://img.shields.io/github/license/bvhpatel/GI-review-dataset.svg?style=flat-square
+[license-url]: https://github.com/bvhpatel/GI-review-dataset/blob/master/LICENSE
